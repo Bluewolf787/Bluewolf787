@@ -23,4 +23,4 @@ I'm working on different projects like Discord Bots with Java, Minecraft Spigot 
 
 ### Wakatime Week Stats :watch::information_source:
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Bluewolf787&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Bluewolf787&theme=tokyonight)](https://wakatime.com/@Bluewolf787)
