@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Bluewolf787
 
-At the moment I'm a student in Germany :round_pushpin::de: and I'm learning alongside the school computer science especially programming.:computer:
+At the moment I'm a student in Germany :round_pushpin::de: and alongside the school I'm learning computer science especially programming.:computer:
 
-I started programming with Java to build my own Minecraft plugins and from there on I wanted to learn more and more.:books::mortar_board:
+I started programming with Java to create my own Minecraft plugins and from there on I wanted to learn more and more.:books::mortar_board:
 
 ### Projects :pencil::construction:
 
