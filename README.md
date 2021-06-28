@@ -8,7 +8,8 @@ I started programming with Java to create my own Minecraft plugins and from ther
 
 I'm working on different projects like Discord Bots with Java, Minecraft Spigot plugins or mobile apps with Dart and Flutter.
 
-[![autospotify](https://github-readme-stats.vercel.app/api/pin/?username=Bluewolf787&repo=autospotify&theme=tokyonight)](https://github.com/Bluewolf787/autospotify)
+[![autospotify](https://github-readme-stats.vercel.app/api/pin/?username=Bluewolf787&repo=autospotify&theme=tokyonight)](https://github.com/Bluewolf787/autospotify)</br>
+[![Downloads](https://img.shields.io/github/downloads/Bluewolf787/autospotify/total.svg?style=for-the-badge)](https://GitHub.com/Bluewolf787/autospotify/releases/)
 
 [![wolfbot](https://github-readme-stats.vercel.app/api/pin/?username=Bluewolf787&repo=wolfbot&theme=tokyonight)](https://github.com/Bluewolf787/wolfbot)
 
