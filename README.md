@@ -3,7 +3,7 @@ bluewolf@github:~$ neofetch
                          ;                  Bluewolf787@Germany
                         ;S   @8             -------------------
                       :;:;8 @ %             Uptime: 18 years
-                     :%;S8 8SS8             OS: Ubuntu, Windows 10
+                     :%;S8 8SS8             OS: Ubuntu, Windows 10/11
                      ;;X8XX@%X              DE: GNOME 3
                 X;88SS8SXX@%XX%             Shell: bash
              8;8tSt@8StSXS%@S@8 @           Languages.CS: Java, Python, Dart/Flutter
