@@ -29,7 +29,7 @@ drwxr-xr-x 1 bluewolf787 bluewolf787 Jun 4  2021 NumCalc/
 drwxr-xr-x 1 bluewolf787 bluewolf787 Jun 14 2021 numcalc-mobile/
 ```
 
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bluewolf787&langs_count=3&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) | [![Bluewolf787's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bluewolf787&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) | [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Bluewolf787&theme=tokyonight)](https://wakatime.com/@Bluewolf787) |
-| --- | --- | --- |
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bluewolf787&langs_count=3&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Bluewolf787's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bluewolf787&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ![profile counter](https://komarev.com/ghpvc/?username=Bluewolf787)
