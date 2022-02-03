@@ -29,7 +29,17 @@ drwxr-xr-x 1 bluewolf787 bluewolf787 Jun 4  2021 NumCalc/
 drwxr-xr-x 1 bluewolf787 bluewolf787 Jun 14 2021 numcalc-mobile/
 ```
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bluewolf787&langs_count=3&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Bluewolf787's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bluewolf787&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bluewolf787&langs_count=3&layout=compact&hide_border=true&theme=tokyonight" alt="Bluewolf787" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bluewolf787&show_icons=true&hide_border=true&theme=tokyonight" alt="Bluewolf787" align = "center"/></p>
+
+<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bluewolf787&theme=github_dark" alt="TopCodeBeast" align = "center"/></p>
+
+<!--
+<p align="center"<a href="#"><img alt="Ashish Kumar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Bluewolf787&bg_color=0D1117&color=1158c7&line=1158c7&point=FFFFFF&hide_border=true&" /></a></p>
+-->
+
+<!--
+<p align="center"> <a href="https://github.com/Bluewolf787"><img src="https://github-profile-trophy.vercel.app/?username=Bluewolf787&margin-w=5&theme=radical" alt="Bluewolf787" /></a> </p>
+-->
 
 ![profile counter](https://komarev.com/ghpvc/?username=Bluewolf787)
