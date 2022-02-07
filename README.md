@@ -32,7 +32,7 @@ drwxr-xr-x 1 bluewolf787 bluewolf787 Jun 14 2021 numcalc-mobile/
 <p align="center"><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bluewolf787&langs_count=3&layout=compact&hide_border=true&theme=tokyonight" alt="Bluewolf787" align = "center"/>
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Bluewolf787&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" alt="Bluewolf787" align = "center"/></p>
 
-<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bluewolf787&theme=github_dark" alt="TopCodeBeast" align = "center"/></p>
+<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bluewolf787&theme=github_dark" alt="Bluewolf787" align = "center"/></p>
 
 <!--
 <p align="center"<a href="#"><img alt="Ashish Kumar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Bluewolf787&bg_color=0D1117&color=1158c7&line=1158c7&point=FFFFFF&hide_border=true&" /></a></p>
