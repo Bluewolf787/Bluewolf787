@@ -4,7 +4,7 @@ bluewolf787@github:~$ neofetch
                         ;S   @8             -------------------
                       :;:;8 @ %             Uptime: "19 years"
                      :%;S8 8SS8             OS: "Ubuntu, Windows 10/11"
-                     ;;X8XX@%X              DE: "GNOME 3"
+                     ;;X8XX@%X              DE: "GNOME 42"
                 X;88SS8SXX@%XX%             Shell: "bash"
              8;8tSt@8StSXS%@S@8 @           Languages.CS: "Java, Python, Dart/Flutter"
      @.8 X%S t888 8X@%SX@@@8SStSXt          Languages.RL: "German, English"
