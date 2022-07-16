@@ -11,7 +11,7 @@ bluewolf787@github:~$ neofetch
     %.X%tt%%t%@SSSX%S%S8@@SXXS%S@:X         IDE: "VSCode, IntelliJ"
      ;X@%X@88X8. S%X@8@@@SXS%X@8XXX         Tools: "Git, Firebase, Terminus, DataGrip" 
      X;XX88  @8S 8;X%:@@X8@XX@XXX.8         Interests: "Coding, Hacking (Pentesting), Reverse Engineering"
-     t %%tt;; : S8t8%;t@@%XS@X@@8:8         Certifications: "LPIC-1 101, PCAP: Programming Essentials in Python"
+     t %%tt;; : S8t8%;t@@%XS@X@@8:8         Certifications: "PCAP: Programming Essentials in Python"
      tXX@SSX%;.:;t   :S@8SSXSX%@tX:         
        S@SX8Xt%S8St :;@8X%@@X8%8X:          
                     X X@@SSXXS 8X           
