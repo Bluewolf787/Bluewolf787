@@ -23,10 +23,10 @@ bluewolf787@github:~$ neofetch
 
 ```Dart
 bluewolf787@github:~/Projects$ ls -l
-drwxr-xr-x 1 bluewolf787 bluewolf787 Feb 15 2021 autospotify/
-drwxr-xr-x 1 bluewolf787 bluewolf787 May 30 2020 wolfbot/
-drwxr-xr-x 1 bluewolf787 bluewolf787 Jun 4  2021 NumCalc/
-drwxr-xr-x 1 bluewolf787 bluewolf787 Jun 14 2021 numcalc-mobile/
+drwxr-xr-x 1 bluewolf787 github Feb 15 2021 autospotify/
+drwxr-xr-x 1 bluewolf787 github May 30 2020 wolfbot/
+drwxr-xr-x 1 bluewolf787 github Jun 4  2021 NumCalc/
+drwxr-xr-x 1 bluewolf787 github Jun 14 2021 numcalc-mobile/
 ```
 
 <p align="center"><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bluewolf787&langs_count=3&layout=compact&hide_border=true&theme=tokyonight" alt="Bluewolf787" align = "center"/>
