@@ -36,18 +36,18 @@ drwxr-xr-x 1 bluewolf787 github Jun 14 2021 numcalc-mobile/
 ```
 
 ---
-
+<!--
 <p align="center"><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bluewolf787&langs_count=3&layout=compact&hide_border=true&theme=tokyonight" alt="Bluewolf787" align = "center"/>
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Bluewolf787&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" alt="Bluewolf787" align = "center"/></p>
 
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bluewolf787&theme=github_dark" alt="Bluewolf787" align = "center"/></p>
+-->
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Bluewolf787&layout=compact&hide=other&langs_count=20&all_time&theme=tokyonight&custom_title=Top%2020%20Languages%20since%20Dec%202020" alt="wakatime top languages"/></p>
 
 <!--
 <p align="center"<a href="#"><img alt="Ashish Kumar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Bluewolf787&bg_color=0D1117&color=1158c7&line=1158c7&point=FFFFFF&hide_border=true&" /></a></p>
 -->
 
-<!--
-<p align="center"> <a href="https://github.com/Bluewolf787"><img src="https://github-profile-trophy.vercel.app/?username=Bluewolf787&margin-w=5&theme=radical" alt="Bluewolf787" /></a> </p>
--->
 
-![profile counter](https://komarev.com/ghpvc/?username=Bluewolf787&style=flat-square)
+![profile counter](https://komarev.com/ghpvc/?username=Bluewolf787&style=flat-square) [![wakatime](https://wakatime.com/badge/user/196d5c15-3806-4f5d-b7c0-871f335ac7a6.svg?style=flat-square)](https://wakatime.com/@196d5c15-3806-4f5d-b7c0-871f335ac7a6)
