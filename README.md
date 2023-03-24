@@ -8,7 +8,7 @@
 bluewolf787@github:~$ neofetch
                          ;                  Bluewolf787@Germany
                         ;S   @8             -------------------
-                      :;:;8 @ %             Uptime: "10 years"
+                      :;:;8 @ %             Uptime: "20 years"
                      :%;S8 8SS8             Host: "Faculty of Informatics and Electrical Engineering (IEF)"
                      ;;X8XX@%X              Kernel: "University of Rostock"
                 X;88SS8SXX@%XX%             OS: "Fedora Linux 37"
