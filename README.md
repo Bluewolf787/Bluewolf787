@@ -11,16 +11,16 @@ bluewolf787@github:~$ neofetch
                       :;:;8 @ %             Uptime: "20 years"
                      :%;S8 8SS8             Host: "Faculty of Informatics and Electrical Engineering (IEF)"
                      ;;X8XX@%X              Kernel: "University of Rostock"
-                X;88SS8SXX@%XX%             OS: "Fedora Linux 38"
-             8;8tSt@8StSXS%@S@8 @           WM: "Mutter"
-     @.8 X%S t888 8X@%SX@@@8SStSXt          DE: "GNOME 44"
-    %.X%tt%%t%@SSSX%S%S8@@SXXS%S@:X         Shell: "fish"
-     ;X@%X@88X8. S%X@8@@@SXS%X@8XXX         Languages.CS: "Java, Python, Dart/Flutter"
-     X;XX88  @8S 8;X%:@@X8@XX@XXX.8         Languages.RL: "German, English"
-     t %%tt;; : S8t8%;t@@%XS@X@@8:8         IDE: "VSCode, IntelliJ" 
-     tXX@SSX%;.:;t   :S@8SSXSX%@tX:         Tools: "Git, Firebase, DataGrip"
-       S@SX8Xt%S8St :;@8X%@@X8%8X:          Interests: "Coding, Hacking (Pentesting), Reverse Engineering"
-                    X X@@SSXXS 8X           Certifications: "PCAP: Programming Essentials in Python"
+                X;88SS8SXX@%XX%             OS: "Arch Linux"
+             8;8tSt@8StSXS%@S@8 @           WM: "Hyprland"
+     @.8 X%S t888 8X@%SX@@@8SStSXt          Shell: "fish"
+    %.X%tt%%t%@SSSX%S%S8@@SXXS%S@:X         Languages.CS: "Java, Python, Dart/Flutter"
+     ;X@%X@88X8. S%X@8@@@SXS%X@8XXX         Languages.RL: "German, English"
+     X;XX88  @8S 8;X%:@@X8@XX@XXX.8         IDE: "VSCode, IntelliJ" 
+     t %%tt;; : S8t8%;t@@%XS@X@@8:8         Tools: "Git"
+     tXX@SSX%;.:;t   :S@8SSXSX%@tX:         Interests: "Coding, Hacking (Pentesting), Reverse Engineering"
+       S@SX8Xt%S8St :;@8X%@@X8%8X:          Certifications: "PCAP: Programming Essentials in Python"
+                    X X@@SSXXS 8X           
                      @:X%SSS88t%            
                      .tSSXt%;8              
                       @:8; 8X
