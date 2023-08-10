@@ -1,6 +1,14 @@
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/Bluewolf787)
-[![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)](https://gitlab.com/Bluewolf787)
-[![Website](https://img.shields.io/website?down_color=blue&down_message=bluewolf787.github.io&style=flat-square&up_color=blue&up_message=bluewolf787.github.io&url=https%3A%2F%2Fbluewolf787.github.io%2F)](https://bluewolf787.github.io/)
+<p align="center">
+  <a href="https://github.com/Bluewolf787">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://gitlab.com/Bluewolf787">
+    <img src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab" alt="GitLab"/>
+  </a>
+  <a href="https://bluewolf787.github.io/">
+    <img src="https://img.shields.io/website?down_color=blue&down_message=bluewolf787.github.io&style=flat-square&up_color=blue&up_message=bluewolf787.github.io&url=https%3A%2F%2Fbluewolf787.github.io%2F" alt="Website"/>
+  </a>
+</p>
 
 ---
 
