@@ -12,11 +12,11 @@
 
 ---
 
-```Dart
+```Python
 bluewolf787@github:~$ neofetch
                          ;                  Bluewolf787@Germany
                         ;S   @8             -------------------
-                      :;:;8 @ %             Uptime: "20 years"
+                      :;:;8 @ %             Uptime: "21 years"
                      :%;S8 8SS8             OS: "Arch Linux"
                      ;;X8XX@%X              WM: "Hyprland"
                 X;88SS8SXX@%XX%             Shell: "fish"
@@ -35,7 +35,7 @@ bluewolf787@github:~$ neofetch
                       ;.: t:
 ```
 
-```Dart
+```
 bluewolf787@github:~/Projects$ ls -l
 drwxr-xr-x 1 bluewolf787 github Feb 15 2021 autospotify/
 drwxr-xr-x 1 bluewolf787 github May 30 2020 wolfbot/
@@ -45,12 +45,13 @@ drwxr-xr-x 1 bluewolf787 github Jun 14 2021 numcalc-mobile/
 
 ---
 
-<!--
-<p align="center"><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bluewolf787&langs_count=3&layout=compact&hide_border=true&theme=tokyonight" alt="Bluewolf787" align = "center"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Bluewolf787&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" alt="Bluewolf787" align = "center"/></p>
--->
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Bluewolf787&layout=compact&hide=other&langs_count=6&all_time&theme=tokyonight&custom_title=Top%2020%20Languages%20since%20Dec%202020" alt="wakatime top languages"/></p>
+<p align="center"><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bluewolf787&langs_count=6&layout=compact&hide_border=true&theme=github_dark" alt="Bluewolf787" align = "center"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Bluewolf787&count_private=true&show_icons=true&hide_border=true&theme=github_dark" alt="Bluewolf787" align = "center"/></p>
+
+<!--
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Bluewolf787&layout=compact&hide=other&langs_count=6&all_time&theme=github_dark&hide_border=true&custom_title=Top%2020%20Languages%20since%20Dec%202020" alt="wakatime top languages"/></p>
+-->
 
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bluewolf787&theme=github_dark" alt="Bluewolf787" align = "center"/></p>
 
