@@ -55,4 +55,6 @@ drwxr-xr-x 1 bluewolf787 github Jun 14 2021 numcalc-mobile/
 
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bluewolf787&theme=github_dark" alt="Bluewolf787" align = "center"/></p>
 
+<!--
 ![profile counter](https://komarev.com/ghpvc/?username=Bluewolf787&style=flat-square) [![wakatime](https://wakatime.com/badge/user/196d5c15-3806-4f5d-b7c0-871f335ac7a6.svg?style=flat-square)](https://wakatime.com/@196d5c15-3806-4f5d-b7c0-871f335ac7a6)
+-->
