@@ -11,7 +11,7 @@
 </p>
 
 ---
-
+<!--
 ```Python
 bluewolf787@github:~$ neofetch
                          ;                  Bluewolf787@Germany
@@ -20,7 +20,7 @@ bluewolf787@github:~$ neofetch
                      :%;S8 8SS8             OS: "Arch Linux"
                      ;;X8XX@%X              WM: "Hyprland"
                 X;88SS8SXX@%XX%             Shell: "fish"
-             8;8tSt@8StSXS%@S@8 @           Languages.CS: "Java, Python, Dart/Flutter, C"
+             8;8tSt@8StSXS%@S@8 @           Languages.CS: "Java, Python, Dart/Flutter"
      @.8 X%S t888 8X@%SX@@@8SStSXt          Languages.RL: "German, English"
     %.X%tt%%t%@SSSX%S%S8@@SXXS%S@:X         IDE: "IntelliJ, VSCode" 
      ;X@%X@88X8. S%X@8@@@SXS%X@8XXX         Tools: "Git"
@@ -43,7 +43,7 @@ drwxr-xr-x 1 bluewolf787 github Jun 4  2021 NumCalc/
 drwxr-xr-x 1 bluewolf787 github Jun 14 2021 numcalc-mobile/
 ```
 
----
+--->
 
 
 <p align="center"><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bluewolf787&langs_count=6&layout=compact&hide_border=true&theme=github_dark" alt="Bluewolf787" align = "center"/>
